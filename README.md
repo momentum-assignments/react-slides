@@ -10,12 +10,12 @@ Data is provided in a file, but its original source is the [Studio Ghibli API](h
 
 ## Skills you're building in this project
 
-When you have finished this project, you will..
+When you have finished this project, you will...
 
 - know how to build a component that advances through a set of data showing one item at a time, using buttons to navigate and restart
-- have experience using state in React
-- have experience using click events in React
-- have experience using props to pass data from a parent component to a child component
+- gain experience using state in React
+- gain experience using click events in React
+- gain experience using props to pass data from a parent component to a child component
 
 ## Requirements
 
@@ -26,7 +26,7 @@ When you have finished this project, you will..
 - A user should not be able to click on the Next button when the slide is the last one (because the button is disabled).
 - A user should not be able to click on the Back button when the slide is the first one (because the button is disabled).
 - A user should not be able to click on the Start Over button when the slide is the first one (because the button is disabled).
-- The application should be styled, but it can be very simple. You can use a library if you want to (lightweight ones like Bulma or MaterializeUI are good options), but your focus should be on functionality.
+- The application should be styled, but it can be very simple. You can use a library if you want to (lightweight ones like Bulma or Materialize are good options), but your focus should be on functionality.
 
 ### Here is an example of how the finished app works
 
