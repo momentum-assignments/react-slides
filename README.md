@@ -44,8 +44,8 @@ You can run the application using `npm start`.
 - The data is already imported for you in `App.js` and available in a variable called `filmData`.
 - Pass the slide data in as a prop from App.js, where the data is already being imported, to the `Slideshow` component. The data can then be used in the `Slideshow` component.
 - Figure out what you want the UI to look like. What HTML will the JSX need to include?
-- Think and talk about how you will make it possible to show a single film in the ui. How could this work?
-- Once you have one film showing in the UI, consider how you will make the ui change to show the next film.
+- Think and talk about how you will make it possible to show a single film in the ui. How could this work? (hint: you'll need the useState hook)
+- Once you have one film showing in the UI, consider how a click on the next button could tell React that the next slide should be shown. (hint: you will need an `onClick` event handler)
 
 
 ## 🌶️ Spicy options
